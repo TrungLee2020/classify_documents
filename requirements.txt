@@ -1,0 +1,5 @@
+PyMuPDF
+requests
+Flask
+flask-cors
+werkzeug
